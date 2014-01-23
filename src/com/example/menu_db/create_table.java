@@ -4,7 +4,7 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteDatabase.CursorFactory;
 import android.database.sqlite.SQLiteOpenHelper;
-
+//java file for creating table
 public class create_table extends SQLiteOpenHelper{
 public static final String name="dbname";
 	public create_table(Context context, CursorFactory factory,
